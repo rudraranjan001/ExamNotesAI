@@ -4,11 +4,11 @@ import {getAuth, GoogleAuthProvider} from "firebase/auth"
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_APIKEY,
-  authDomain: "authexamnotes.firebaseapp.com",
-  projectId: "authexamnotes",
-  storageBucket: "authexamnotes.firebasestorage.app",
-  messagingSenderId: "198091553006",
-  appId: "1:198091553006:web:cd719d4ee1ebf391139bff"
+  authDomain: "authexamnotesai-59ae0.firebaseapp.com",
+  projectId: "authexamnotesai-59ae0",
+  storageBucket: "authexamnotesai-59ae0.firebasestorage.app",
+  messagingSenderId: "1095868020031",
+  appId: "1:1095868020031:web:45453480392f9f41034f8a"
 };
 
 
